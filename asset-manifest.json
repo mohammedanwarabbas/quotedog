@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quotedog/static/css/main.073c9b0a.css",
+    "main.js": "/quotedog/static/js/main.fa78bed5.js",
+    "static/js/787.7c770b5f.chunk.js": "/quotedog/static/js/787.7c770b5f.chunk.js",
+    "static/media/loader.gif": "/quotedog/static/media/loader.332d3188e088ce97d7a9.gif",
+    "index.html": "/quotedog/index.html",
+    "main.073c9b0a.css.map": "/quotedog/static/css/main.073c9b0a.css.map",
+    "main.fa78bed5.js.map": "/quotedog/static/js/main.fa78bed5.js.map",
+    "787.7c770b5f.chunk.js.map": "/quotedog/static/js/787.7c770b5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fa78bed5.js"
+  ]
+}
